@@ -22,13 +22,11 @@ The Sentiment Analyzer is a Flask based web application that allows users to ana
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/yourusername/sentiment-analyzer.git
-    cd sentiment-analyzer
     ```
 
 2. **Create a virtual environment and activate it**:
     ```sh
-    python -m venv venv
-    source venv/bin/activate  
+    python -m venv 
     ```
 
 3. **Install the dependencies**:
@@ -38,7 +36,7 @@ The Sentiment Analyzer is a Flask based web application that allows users to ana
 
 4. **Run the application**:
     ```sh
-    flask run
+    flask run app.py
     ```
 
 5. **Open your web browser and visit**:
@@ -47,7 +45,7 @@ The Sentiment Analyzer is a Flask based web application that allows users to ana
     ```
 
 ## Dataset Availability
-The dataset used for training the sentiment analysis model is taken from [Kaggle](https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews-dataset)
+The dataset used for training the model can be downloaded from [Kaggle](https://www.kaggle.com/datasets/niraliivaghani/flipkart-product-customer-reviews-dataset).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
