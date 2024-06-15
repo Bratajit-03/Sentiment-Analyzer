@@ -6,10 +6,10 @@ The Sentiment Analyzer is a Flask based web application that allows users to ana
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Bratajit-03/Sentiment-Analyzer/assets/106532791/74d03bd4-ca6b-4588-9073-1a6f96e2d50c" alt="Home Page" width="500" height="300"/>
+      <img src="https://github.com/Bratajit-03/Sentiment-Analyzer/assets/106532791/74d03bd4-ca6b-4588-9073-1a6f96e2d50c" alt="Home Page" width="800" height="300"/>
     </td>
     <td>
-      <img src="https://github.com/Bratajit-03/Sentiment-Analyzer/assets/106532791/c65d2889-1900-4f84-85aa-d0c39ceea440" alt="Result Page" width="500" height="300"/>
+      <img src="https://github.com/Bratajit-03/Sentiment-Analyzer/assets/106532791/c65d2889-1900-4f84-85aa-d0c39ceea440" alt="Result Page" width="800" height="300"/>
     </td>
   </tr>
   <tr>
