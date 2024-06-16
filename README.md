@@ -3,20 +3,10 @@
 The Sentiment Analyzer is a Flask based web application that allows users to analyze the sentiment of text, comments, or reviews. It uses natural language processing techniques to classify the sentiment as positive, negative, or neutral. The model has achieved an accuracy of 93.05% using the Gradient Boosting Classifier.
 
 ## Screenshots
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Bratajit-03/Sentiment-Analyzer/assets/106532791/74d03bd4-ca6b-4588-9073-1a6f96e2d50c" alt="Home Page" width="800" height="300"/>
-    </td>
-    <td>
-      <img src="https://github.com/Bratajit-03/Sentiment-Analyzer/assets/106532791/c65d2889-1900-4f84-85aa-d0c39ceea440" alt="Result Page" width="800" height="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Home Page</b></td>
-    <td align="center"><b>Result Page</b></td>
-  </tr>
-</table>
+
+| ![screenshot 1](https://github.com/Bratajit-03/Sentiment-Analyzer/assets/106532791/f6845975-3e9d-4b36-9a6c-46b9018a7462) | ![Screenshot 2](https://github.com/Bratajit-03/Sentiment-Analyzer/assets/106532791/98b6410b-dbdc-44ee-ab18-248a2bb7315c) |
+|:--:|:--:|
+| *Home Page* | *Result Page* |
 
 ## How to Run
 1. **Clone the repository**:
@@ -36,7 +26,7 @@ The Sentiment Analyzer is a Flask based web application that allows users to ana
 
 4. **Run the application**:
     ```sh
-    flask run app.py
+   run app.py
     ```
 
 5. **Open your web browser and visit**:
